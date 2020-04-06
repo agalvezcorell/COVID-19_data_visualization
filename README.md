@@ -2,6 +2,7 @@
 
 
 # COVID-19_data_visualization
-Visualizing the Coronavirus Pandemic with Choropleth Maps
+Simple display following a tutorial of Choropleth Maps and [this](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data) kaggle`s dataset. 
 
-Simple display following a tutorial of Choropleth Maps.
+
+![Mapa](https://github.com/agalvezcorell/COVID-19_data_visualization/blob/master/files/newplot.png)
